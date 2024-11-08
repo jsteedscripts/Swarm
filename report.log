@@ -1,0 +1,27 @@
+2024-11-08 10:35:17,417 - pyswarms.single.global_best - INFO - Optimize for 1 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2024-11-08 10:35:17,431 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 2.6311426156542996, best pos: [ 1.9268018  -2.40492199]
+2024-11-08 11:07:16,739 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2024-11-08 11:22:10,992 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-08 11:22:10,995 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-08 11:22:20,802 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-08 11:22:20,806 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-08 11:22:28,535 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-08 11:22:28,540 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-11-08 11:27:14,152 - pyswarms.backend.operators - ERROR - Missing keyword in swarm.options
+Traceback (most recent call last):
+  File "/Users/juliasteed/anaconda3/lib/python3.11/site-packages/pyswarms/backend/operators.py", line 130, in compute_velocity
+    w = swarm.options["w"]
+        ~~~~~~~~~~~~~^^^^^
+KeyError: 'w'
+2024-11-08 11:27:31,535 - pyswarms.backend.operators - ERROR - Missing keyword in swarm.options
+Traceback (most recent call last):
+  File "/Users/juliasteed/anaconda3/lib/python3.11/site-packages/pyswarms/backend/operators.py", line 130, in compute_velocity
+    w = swarm.options["w"]
+        ~~~~~~~~~~~~~^^^^^
+KeyError: 'w'
+2024-11-08 11:27:58,227 - pyswarms.backend.operators - ERROR - Missing keyword in swarm.options
+Traceback (most recent call last):
+  File "/Users/juliasteed/anaconda3/lib/python3.11/site-packages/pyswarms/backend/operators.py", line 130, in compute_velocity
+    w = swarm.options["w"]
+        ~~~~~~~~~~~~~^^^^^
+KeyError: 'w'
