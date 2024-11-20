@@ -51,3 +51,5 @@ KeyError: 'w'
 2024-11-09 10:27:31,922 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2024-11-09 10:27:31,934 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2024-11-09 10:32:10,306 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2024-11-15 13:22:40,966 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2024-11-20 08:32:50,718 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
